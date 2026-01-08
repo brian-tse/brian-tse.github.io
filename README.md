@@ -22,6 +22,6 @@
   <p>If this policy changes, it will be updated on this page.</p>
 
   <h2>Contact</h2>
-  <p>If you have questions, contact: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  <p>If you have questions, contact: <a href="briantse@gmail.com">briantse@gmail.com</a></p>
 </body>
 </html>
